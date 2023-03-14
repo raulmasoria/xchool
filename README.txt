@@ -17,3 +17,6 @@ Para poder poner en funcionamiento necesitarás tener instalado lo siguiente:
 7 - Después de que Docker descargue e instale todas las dependencias, tu aplicación Laravel debería estar disponible en tu navegador web. Para acceder a ella, abre tu navegador y escribe "http://localhost" en la barra de direcciones.
 
 8 - Para poder ver los diferentes cursos tendrás que iniciar sesión como Administrador. Los datos de acceso son admin@xchool.es - admin
+
+
+Adjunto también la base de datos por si fuese necesario.
