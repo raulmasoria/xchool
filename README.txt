@@ -6,7 +6,7 @@ Para poder poner en funcionamiento necesitarás tener instalado lo siguiente:
 
 2 - Descarga el proyecto de GitHub que contiene el código de tu aplicación Laravel.
 
-3 - Descomprime el archivo ZIP que acabas de descargar en una carpeta de tu elección en tu computadora.
+3 - Descomprime el archivo ZIP que acabas de descargar en una carpeta de tu elección en tu PC.
 
 4 - Abre la línea de comandos (CMD) de Windows. Para hacerlo, presiona la tecla "Windows" y la tecla "R" al mismo tiempo. Escribe "cmd" en el campo de texto y haz clic en "OK".
 
